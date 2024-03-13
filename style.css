@@ -63,7 +63,7 @@ button{
 button:hover{
     background-color: #111;
     color: white;
-    letter-spacing: 1.5px;
+    letter-spacing: 1.4px;
 }
 .btn-search{
     display: flex;
